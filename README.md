@@ -4,7 +4,7 @@ Infrastructure Specialist | Cloud Advocate
 # About Me:
 I am a seasoned professional with over 12 years of experience in the IT industry, specializing in infrastructure management and cloud technologies. My passion for technology and innovation has driven me to continuously explore and implement cutting-edge solutions that optimize business processes and enhance user experiences.
 
-# Work Experience:
+Work Experience:
 - Infrastructure Specialist at Tec Evolution 
    - Led the design and deployment of scalable infrastructure solutions, reducing operational costs by 20%.
    - Implemented robust security measures, achieving a 99.9% uptime for critical services.
