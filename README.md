@@ -17,7 +17,6 @@ Community Engagement:
    - Promoted Calico networking solutions within the community, facilitating discussions and knowledge sharing.
    
 Open Source Contributions:
-- Actively contributed to open-source projects, including [Project Name], by submitting bug fixes and feature enhancements.
 - Maintained a personal repository of scripts and tools to automate common tasks and improve productivity.
 
 
