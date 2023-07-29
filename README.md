@@ -20,7 +20,7 @@ Open Source Contributions:
 - Maintained a personal repository of scripts and tools to automate common tasks and improve productivity.
 
 
-Skills:
+### Skills:
 - Cloud Technologies: AWS, Azure, G42
 - Infrastructure Management: Kubernetes, Docker, Ansible
 - Virulization Technology: Vmware,Hyper-V,KVM
@@ -28,14 +28,14 @@ Skills:
 - Programming Languages: Python, Bash
 - Security: IAM, SSL/TLS, Firewalls
   
-Certifications:
+### Certifications:
 - RHCE (Red Hat Certified Engineer)
 - RHCSA (Red Hat Certified System Administrator)
 - RHCSS (Red Hat Certified Security Specialist)
 - Microsoft Azure Fundamentals
 - Certified Kubernetes Administrator (CKA)
 
-Interests:
+### Interests:
 Apart from technology, I enjoy mentoring students and young professionals, helping them realize their potential in the tech industry. I also love exploring new cuisines and indulging in outdoor activities like hiking and cycling.
 
 Let's connect and collaborate on exciting projects! Feel free to reach out via email at [shyju@live.in] or connect with me on LinkedIn [https://www.linkedin.com/in/shyjustack/].
