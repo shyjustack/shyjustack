@@ -20,7 +20,7 @@ Community Engagement:
 
 - Blogs:
 1. Medium: [Medium Blog](https://medium.com/@shyju0008)
-2. Cloudnloud: [Kubernetes Deep Dive Series](https://blog.cloudnloud.com/series/kubernetes-deep-dive)
+2. Hashnode: [Kubernetes Deep Dive Series](https://blog.cloudnloud.com/series/kubernetes-deep-dive)
 
 - Calico Ambassador:
    - Promoted Calico networking solutions within the community, facilitating discussions and knowledge sharing.
