@@ -28,6 +28,13 @@ Skills:
 - Networking: Calico, IPsec, VPN
 - Programming Languages: Python, Bash
 - Security: IAM, SSL/TLS, Firewalls
+  
+Certifications:
+- RHCE (Red Hat Certified Engineer)
+- RHCSA (Red Hat Certified System Administrator)
+- RHCSS (Red Hat Certified Security Specialist)
+- Microsoft Azure Fundamentals
+- Certified Kubernetes Administrator (CKA)
 
 Interests:
 Apart from technology, I enjoy mentoring students and young professionals, helping them realize their potential in the tech industry. I also love exploring new cuisines and indulging in outdoor activities like hiking and cycling.
