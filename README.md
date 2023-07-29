@@ -12,7 +12,10 @@ Community Engagement:
 - Cloudnloud Ambassador:
    - Represented Cloudnloud at industry events, delivering technical talks and workshops on cloud adoption and best practices.
    - Authored informative blog posts on cloud computing and shared real-world use cases to help businesses leverage cloud services effectively.
-   - Conducted a workshop on "Kubernetes Deep Dive Workshop" - [https://www.youtube.com/watch?v=Qj3T5kOs9gY&t=3885s]
+   - Conducted a workshop on "Kubernetes Deep Dive Workshop" 
+   - YouTube: [![YouTube](https://www.youtube.com/watch?v=Qj3T5kOs9gY&t=3885s)
+   - YouTube: [![YouTube][https://www.youtube.com/watch?v=YUHIMutWlm0&t=2062s]
+
 
 - Calico Ambassador:
    - Promoted Calico networking solutions within the community, facilitating discussions and knowledge sharing.
