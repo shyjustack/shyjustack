@@ -12,14 +12,15 @@ Community Engagement:
 - Cloudnloud Ambassador:
    - Represented Cloudnloud at industry events, delivering technical talks and workshops on cloud adoption and best practices.
    - Authored informative blog posts on cloud computing and shared real-world use cases to help businesses leverage cloud services effectively.
-YouTube:
+   - YouTube:
+     
+  [![Docker Video](https://img.youtube.com/vi/YUHIMutWlm0/0.jpg)](https://www.youtube.com/watch?v=YUHIMutWlm0&t=2062s)
+  [![Kubernetes Video](https://img.youtube.com/vi/Qj3T5kOs9gY/0.jpg)](https://www.youtube.com/watch?v=Qj3T5kOs9gY&t=3885s)
+  [![New Video](https://img.youtube.com/vi/PgHBRPTJX24/0.jpg)](https://www.youtube.com/watch?v=PgHBRPTJX24&t=30s)
 
-[![Kubernetes Video](https://img.youtube.com/vi/Qj3T5kOs9gY/0.jpg)](https://www.youtube.com/watch?v=Qj3T5kOs9gY&t=3885s)
-[![Docker Video](https://img.youtube.com/vi/YUHIMutWlm0/0.jpg)](https://www.youtube.com/watch?v=YUHIMutWlm0&t=2062s)
-
-
-
-
+- Blogs:
+1. Medium: [Medium Blog](https://medium.com/@shyju0008)
+2. Cloudnloud: [Kubernetes Deep Dive Series](https://blog.cloudnloud.com/series/kubernetes-deep-dive)
 
 - Calico Ambassador:
    - Promoted Calico networking solutions within the community, facilitating discussions and knowledge sharing.
