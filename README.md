@@ -13,9 +13,10 @@ Community Engagement:
    - Represented Cloudnloud at industry events, delivering technical talks and workshops on cloud adoption and best practices.
    - Authored informative blog posts on cloud computing and shared real-world use cases to help businesses leverage cloud services effectively.
 YouTube:
+
 [![Kubernetes Video](https://img.youtube.com/vi/Qj3T5kOs9gY/0.jpg)](https://www.youtube.com/watch?v=Qj3T5kOs9gY&t=3885s)
 [![Docker Video](https://img.youtube.com/vi/YUHIMutWlm0/0.jpg)](https://www.youtube.com/watch?v=YUHIMutWlm0&t=2062s)
-[![Docker Swarm](https://www.youtube.com/watch?v=PgHBRPTJX24&t=30s)
+
 
 
 
