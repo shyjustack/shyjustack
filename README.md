@@ -17,6 +17,8 @@ Community Engagement:
   [![Docker Video](https://img.youtube.com/vi/YUHIMutWlm0/0.jpg)](https://www.youtube.com/watch?v=YUHIMutWlm0&t=2062s)
   [![Kubernetes Video](https://img.youtube.com/vi/Qj3T5kOs9gY/0.jpg)](https://www.youtube.com/watch?v=Qj3T5kOs9gY&t=3885s)
   [![New Video](https://img.youtube.com/vi/PgHBRPTJX24/0.jpg)](https://www.youtube.com/watch?v=PgHBRPTJX24&t=30s)
+  [![New Video](https://img.youtube.com/vi/PgHBRPTJX24/0.jpg)](https://www.youtube.com/watch?v=vWAwFofx5tQ)
+
 
 - Blogs:
 1. Medium: [Medium Blog](https://medium.com/@shyju0008)
