@@ -9,7 +9,7 @@ I am a seasoned professional with over 12 years of experience in the IT industry
    - Led the design and deployment of scalable infrastructure solutions, reducing operational costs by 20%.
    - Implemented robust security measures, achieving a 99.9% uptime for critical services.
 Community Engagement:
-- Cloudnloud Ambassador:
+- ### Cloudnloud Ambassador:
    - Represented Cloudnloud at industry events, delivering technical talks and workshops on cloud adoption and best practices.
    - Authored informative blog posts on cloud computing and shared real-world use cases to help businesses leverage cloud services effectively.
    - YouTube:
